@@ -1,0 +1,8 @@
+The aim of this assignment is to get familiarized with git and Unix commands
+
+Assignment Instructions
+
+1. Clone the assignment1 folder to your cloud9 workspace
+2. In the command window, navigate to the assignment1 folder and create a new text file 'solution.txt'
+3. Open solution.txt and enter the following text 'Hello, World!'
+4. Commit and push assignment1 and the changes you made back to Github.
