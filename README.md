@@ -11,3 +11,7 @@ The aim of this assignment is to get familiarized with git and basic Unix comman
  3. Open `solution.txt` and enter the following text exactly `Hello, World!`.
 
  4. Commit the new file to the repository and push assignment1 and the changes you made back to [github.com](http://github.com).
+
+ ## Testing
+
+ If you would like to check to see if your solution is correct, simply run the command `nosetests` at the command prompt.  A status message of `OK` indicates you have the correct answer.

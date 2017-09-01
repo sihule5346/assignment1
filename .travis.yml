@@ -9,6 +9,6 @@ install:
   - conda update -q conda
   - conda info -a
   - conda env create -f environment.yml
-  - source activate assignment
+  - source activate assignment1
 script:
   - nosetests
