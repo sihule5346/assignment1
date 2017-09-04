@@ -8,7 +8,7 @@ The aim of this assignment is to get familiarized with git and basic Unix comman
 
  2. In the command window, navigate to the assignment1 repository and create a new text file `solution.txt`.
 
- 3. Open `solution.txt` and enter the following text exactly `Hello, World!`.
+ 3. Open a new file called `solution.txt` and enter the following text **exactly as it appears**: `Hello, World!`.
 
  4. Commit the new file to the repository and push assignment1 and the changes you made back to [github.com](http://github.com).
 
