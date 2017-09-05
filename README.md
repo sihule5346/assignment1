@@ -1,5 +1,7 @@
 # Homework Assignment 1
 
+[![Build Status](https://travis-ci.com/PGE323M/assignment1.svg?token=SnMGq692xXXqxzyE6QSj&branch=master)](https://travis-ci.com/PGE323M/assignment1)
+
 The aim of this assignment is to get familiarized with git and basic Unix commands.
 
 ## Instructions
